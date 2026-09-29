@@ -62,7 +62,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/quraanapp.git
+git clone https://github.com/YOUR_USERNAME/quraan-app.git
 
 Move into the project directory:
 
